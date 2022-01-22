@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Projects\.NET\ModernUI\ModernUI\obj\Debug\
+E:\Projects\.NET\ModernUI-WPF\ModernUI\obj\Debug\
 ModernUI
 none
 false
 DEBUG;TRACE
-E:\Projects\.NET\ModernUI\ModernUI\App.xaml
+E:\Projects\.NET\ModernUI-WPF\ModernUI\App.xaml
 5-1353526089
 
-13-655919466
+121426169152
 13-1310406943
 MainWindow.xaml;MVVM\View\DiscoveryView.xaml;MVVM\View\HomeView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
 
-True
+False
 
